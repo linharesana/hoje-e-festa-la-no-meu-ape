@@ -7,9 +7,9 @@ body{
     --font-titulo:"Dancing Script", cursive;
     --rosa:rgb(0, 255, 13);
     --ouro:rgb(0, 255, 179);
-    --cinza:rgb(0, 0, 0);
+    --cinza:rgb(185, 156, 240);
     --verde:rgb(255, 251, 0);
-    --azul-claro:rgb(100, 221, 237);
+    --azul-claro:rgb(237, 100, 141);
 }
 
 .conteudo-titulo {
